@@ -1,0 +1,104 @@
+{
+  "grades": [
+    {
+      "student_id": 1001,
+      "subject": "Math",
+      "grade": 85
+    },
+    {
+      "student_id": 1002,
+      "subject": "Math",
+      "grade": 92
+    },
+    {
+      "student_id": 1003,
+      "subject": "Math",
+      "grade": 78
+    },
+    {
+      "student_id": 1004,
+      "subject": "Math",
+      "grade": 45
+    },
+    {
+      "student_id": 1005,
+      "subject": "Math",
+      "grade": 95
+    },
+    {
+      "student_id": 1001,
+      "subject": "Physics",
+      "grade": 78
+    },
+    {
+      "student_id": 1002,
+      "subject": "Physics",
+      "grade": 88
+    },
+    {
+      "student_id": 1003,
+      "subject": "Physics",
+      "grade": 92
+    },
+    {
+      "student_id": 1004,
+      "subject": "Physics",
+      "grade": 67
+    },
+    {
+      "student_id": 1005,
+      "subject": "Physics",
+      "grade": 85
+    },
+    {
+      "student_id": 1001,
+      "subject": "Chemistry",
+      "grade": 90
+    },
+    {
+      "student_id": 1002,
+      "subject": "Chemistry",
+      "grade": 85
+    },
+    {
+      "student_id": 1003,
+      "subject": "Chemistry",
+      "grade": 76
+    },
+    {
+      "student_id": 1004,
+      "subject": "Chemistry",
+      "grade": 58
+    },
+    {
+      "student_id": 1005,
+      "subject": "Chemistry",
+      "grade": 93
+    },
+    {
+      "student_id": 1001,
+      "subject": "Biology",
+      "grade": 88
+    },
+    {
+      "student_id": 1002,
+      "subject": "Biology",
+      "grade": 91
+    },
+    {
+      "student_id": 1003,
+      "subject": "Biology",
+      "grade": 85
+    },
+    {
+      "student_id": 1004,
+      "subject": "Biology",
+      "grade": 72
+    },
+    {
+      "student_id": 1005,
+      "subject": "Biology",
+      "grade": 89
+    }
+  ]
+}
